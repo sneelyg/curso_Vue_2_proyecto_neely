@@ -1,0 +1,41 @@
+
+#app{
+    padding: 35px;
+
+  }
+
+  header{
+    text-align: center;
+
+  }
+
+  #cajon{
+    height: 50px;
+  }
+
+  .bg-warning-test{
+    background-color:red;
+
+  }
+  .texto_amarillo{
+    color: yellow;
+  }
+  .texto_azul{
+    color: blue;
+  }
+
+  .text-secondary-test{
+    font-size: 5px;
+  }
+
+  .lightgray {
+    background-color: lightgray;
+    text-align: center;
+  }
+
+  .black {
+    background-color: black;
+    text-align: center;
+  }
+
+  
